@@ -1,0 +1,18 @@
+.app__main {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: stretch;
+
+    overflow-x: auto;
+}
+
+@media screen and (min-width: 800px) {
+    .details__wrapper {
+        flex-grow: 1;
+    }
+}
