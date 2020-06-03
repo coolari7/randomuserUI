@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d822a56243923d8c7cc851ea426459c6",
+    "revision": "e37104a1413b41ed14c0505ab3512c3d",
     "url": "/randomuserUI/index.html"
   },
   {
-    "revision": "b19d7fe67b661286f662",
-    "url": "/randomuserUI/static/css/main.605243f8.chunk.css"
+    "revision": "f994b2760a0b62995125",
+    "url": "/randomuserUI/static/css/main.03a7e330.chunk.css"
   },
   {
     "revision": "3aab9f6dcc965b7ceab9",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/randomuserUI/static/js/2.9c55b430.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b19d7fe67b661286f662",
+    "revision": "f994b2760a0b62995125",
     "url": "/randomuserUI/static/js/main.6a77e003.chunk.js"
   },
   {
