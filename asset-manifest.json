@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/randomuserUI/static/css/main.29806eb5.chunk.css",
-    "main.js": "/randomuserUI/static/js/main.1a3b512c.chunk.js",
-    "main.js.map": "/randomuserUI/static/js/main.1a3b512c.chunk.js.map",
+    "main.js": "/randomuserUI/static/js/main.6a77e003.chunk.js",
+    "main.js.map": "/randomuserUI/static/js/main.6a77e003.chunk.js.map",
     "runtime-main.js": "/randomuserUI/static/js/runtime-main.50916fa7.js",
     "runtime-main.js.map": "/randomuserUI/static/js/runtime-main.50916fa7.js.map",
     "static/js/2.9c55b430.chunk.js": "/randomuserUI/static/js/2.9c55b430.chunk.js",
     "static/js/2.9c55b430.chunk.js.map": "/randomuserUI/static/js/2.9c55b430.chunk.js.map",
     "index.html": "/randomuserUI/index.html",
-    "precache-manifest.f35d9fdb94652f390e9949b819467ca2.js": "/randomuserUI/precache-manifest.f35d9fdb94652f390e9949b819467ca2.js",
+    "precache-manifest.a59a78f7bfe708079f5ed82269cf9285.js": "/randomuserUI/precache-manifest.a59a78f7bfe708079f5ed82269cf9285.js",
     "service-worker.js": "/randomuserUI/service-worker.js",
     "static/css/main.29806eb5.chunk.css.map": "/randomuserUI/static/css/main.29806eb5.chunk.css.map",
     "static/js/2.9c55b430.chunk.js.LICENSE.txt": "/randomuserUI/static/js/2.9c55b430.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.50916fa7.js",
     "static/js/2.9c55b430.chunk.js",
     "static/css/main.29806eb5.chunk.css",
-    "static/js/main.1a3b512c.chunk.js"
+    "static/js/main.6a77e003.chunk.js"
   ]
 }
