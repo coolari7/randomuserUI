@@ -12,6 +12,7 @@
 
 .header__wrapper a {
     display: block;
+    text-decoration: none;
 }
 
 .header__wrapper a:visited {
